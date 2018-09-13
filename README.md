@@ -1,12 +1,17 @@
 ##########################################################################################
 
 Program: GC_content_MultiFasta_v1.0.py
+
 Version: 1.0
+
 Copyright (C) 2018 Fernando Martinez-Ocampo
+
 All Rights Reserved
+
 See LICENSE file for details
 
 Author: Fernando Martinez-Ocampo
+
 Contact to report bugs: fernando.martinezo@uaem.mx
 
 ##########################################################################################
