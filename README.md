@@ -68,9 +68,9 @@ $ chmod ugo+x GC_content_MultiFasta_v1.0.py
 
 vi) Edite or create the .bashrc file.
 
-cd $HOME
+$ cd $HOME
 
-nano .bashrc
+$ nano .bashrc
 
 
 
