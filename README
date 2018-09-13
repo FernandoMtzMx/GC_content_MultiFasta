@@ -60,7 +60,8 @@ $ tar -zxvf GC_content_MultiFasta.tar.gz
 
 
 
-v) Delete the GC_content_MultiFasta.tar.gz file and change the execution permissions of GC_content_MultiFasta_v1.0.py script.
+v) Delete the GC_content_MultiFasta.tar.gz file and change the execution permissions of
+GC_content_MultiFasta_v1.0.py script.
 
 $ rm -rf GC_content_MultiFasta.tar.gz
 
