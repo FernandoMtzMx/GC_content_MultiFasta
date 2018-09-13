@@ -118,25 +118,15 @@ I removed the following nucleotides whose the letter code means that they could 
 nucleotides and they were not considered for the total length:
 
 R = G or A;
-
 Y = T or C;
-
 K = G or T;
-
 M = A or C;
-
 S = G or C;
-
 W = A or T;
-
 B = G or T or C;
-
 D = G or A or T;
-
 H = A or C or T;
-
 V = G or C or A;
-
 N = A or G or C or T.
 
 
