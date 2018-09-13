@@ -18,13 +18,16 @@ Contact to report bugs: fernando.martinezo@uaem.mx
 
 1. INTRODUCTION
 
-GC_content_MultiFasta_v1.0.py is a Python script that is used to calculate the total length (bp) and G+C content (%) of each nucleotide sequence in a file with Fasta format. This file may contain DNA or RNA sequences.
+GC_content_MultiFasta_v1.0.py is a Python script that is used to calculate the total length
+(bp) and G+C content (%) of each nucleotide sequence in a file with Fasta format. This file
+may contain DNA or RNA sequences.
 
 #################################################################################################
 
 2. PREREQUISITES
 
-GC_content_MultiFasta_v1.0.py requires a Linux system or Mac OS and Python (version 2 or 3) to be pre-installed on it.
+GC_content_MultiFasta_v1.0.py requires a Linux system or Mac OS and Python (version 2 or 3)
+to be pre-installed on it.
 
 #################################################################################################
 
@@ -109,7 +112,8 @@ Optional arguments:
 
 First section of the output file shows the following comment:
 
-I removed the following nucleotides whose the letter code means that they could be two or more nucleotides and they were not considered for the total length:
+I removed the following nucleotides whose the letter code means that they could be two or more
+nucleotides and they were not considered for the total length:
 
 R = G or A;
 
@@ -147,7 +151,9 @@ iii) Third column shows the G+C content (in percentage - %) of each nucleotide s
 
 7. EXAMPLES
 
-i) Example of Anaplasma marginale str. Gypsy Plains chromosome that contains nucleotides whose the letter code means that they could be two or more nucleotides and they were not considered for the total length:
+i) Example of Anaplasma marginale str. Gypsy Plains chromosome that contains nucleotides whose
+the letter code means that they could be two or more nucleotides and they were not considered
+for the total length:
 
 $ python3 GC_content_MultiFasta_v1.0.py --input $HOME/bin/GC_content_MultiFasta/examples/Anaplasma_marginale_str_Gypsy_Plains_chromosome.fna --output Gypsy_Plains_output.txt
 
